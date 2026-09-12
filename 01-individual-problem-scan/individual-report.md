@@ -5,9 +5,10 @@
 ## Thông tin cá nhân
 
 - Họ và tên: Phạm minh Hiếu
-- Mã học viên:
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...):
+- Mã học viên: 2A202602630
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): sinh viên năm 3
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+
 
 ---
 
